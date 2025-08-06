@@ -188,3 +188,4 @@ pyrightconfig.json
 *.zip
 /simple-baseline/result
 /strong-baseline/result
+/medium-baseline/result
